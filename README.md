@@ -12,11 +12,14 @@ The game is pretty easy to play: use the left and right keys to move the scottie
 Long story short, please eat healthily and stay healthy… otherwise expresso depresso.
 
 OTHER INFO:
+
 Modules: just the cmu 112 graphics and pillow
 
 Images: Flaticon.com. This game has been designed using resources from Flaticon.com
 
 Start File: open ‘hack112.py’
 
+
 SIDE NOTE:
+
 Please forgive the simplicity of this code but hopefully the style is okay :D
