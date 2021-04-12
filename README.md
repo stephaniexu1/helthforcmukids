@@ -13,7 +13,9 @@ Long story short, please eat healthily and stay healthy… otherwise expresso de
 
 OTHER INFO:
 Modules: just the cmu 112 graphics and pillow
+
 Images: Flaticon.com. This game has been designed using resources from Flaticon.com
+
 Start File: open ‘hack112.py’
 
 SIDE NOTE:
