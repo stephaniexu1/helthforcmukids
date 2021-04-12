@@ -1,4 +1,4 @@
-# helthforcmukids
+# helth for cmu kids
 Hack 112 Spring 2021 Project
 
 Hello friends!
